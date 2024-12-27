@@ -4,7 +4,7 @@ import numpy as np
 data = np.random.default_rng(19680801)
 
 n_points = 10000
-n_bins = 20
+n_bins = 60
 
 #Generate two normal distributions
 d1 = data.standard_normal(n_points)
